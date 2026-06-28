@@ -22,7 +22,7 @@ const norm = (s: string) =>
    IMAGES
 ───────────────────────────────────────────── */
 const IMG = {
-  hero: "https://media.discordapp.net/attachments/1520464223212277938/1520701832232439879/Header_1920x1080.jpg?ex=6a422772&is=6a40d5f2&hm=46f1241aa70a11a9b1908fe7876d8431bdb4c5340fe687188c9066bbe7a4a81b&=&format=webp&width=1376&height=769",
+  hero: "https://images.unsplash.com/photo-1744060204728-f68e434a3edf?w=900&h=1200&fit=crop&auto=format",
   catMen: "https://images.unsplash.com/photo-1542321103-f277f1befb3c?w=700&h=950&fit=crop&auto=format",
   catWomen: "https://images.unsplash.com/photo-1548690312-e3b507d8c110?w=700&h=950&fit=crop&auto=format",
   catGear: "https://images.unsplash.com/photo-1620188467120-5042ed1eb5da?w=700&h=950&fit=crop&auto=format",
@@ -37,7 +37,7 @@ const IMG = {
   i3: "https://images.unsplash.com/photo-1758521959295-38ef00565e7c?w=500&h=400&fit=crop&auto=format",
   i4: "https://images.unsplash.com/photo-1727094141271-9bea5bc8c757?w=900&h=700&fit=crop&auto=format",
   i5: "https://images.unsplash.com/photo-1758521961330-2004fb10800f?w=500&h=400&fit=crop&auto=format",
-  authBg: "https://images.unsplash.com/photo-1744060204728-f68e434a3edf?w=900&h=1200&fit=crop&auto=format",
+  authBg: "https://media.discordapp.net/attachments/1520464223212277938/1520701832232439879/Header_1920x1080.jpg?ex=6a422772&is=6a40d5f2&hm=46f1241aa70a11a9b1908fe7876d8431bdb4c5340fe687188c9066bbe7a4a81b&=&format=webp&width=1376&height=769",
   menBanner: "https://images.unsplash.com/photo-1571731956672-f2b94d7dd0cb?w=1400&h=600&fit=crop&auto=format",
 };
 
