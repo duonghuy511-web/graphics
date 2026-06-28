@@ -1303,7 +1303,7 @@ function HomePage({ onView, onAdd, onNav, wishlist, onToggleWishlist }: {
       {/* BRAND SPIRIT BANNER — thay URL src bên dưới để đổi ảnh nền */}
       <section className="w-full relative overflow-hidden flex items-center justify-center" style={{ minHeight: 560 }}>
         <img
-          src={https://media.discordapp.net/attachments/1520464223212277938/1520701832232439879/Header_1920x1080.jpg?ex=6a422772&is=6a40d5f2&hm=46f1241aa70a11a9b1908fe7876d8431bdb4c5340fe687188c9066bbe7a4a81b&=&format=webp&width=688&height=384}
+          src="https://media.discordapp.net/attachments/1520464223212277938/1520701832232439879/Header_1920x1080.jpg?ex=6a422772&is=6a40d5f2&hm=46f1241aa70a11a9b1908fe7876d8431bdb4c5340fe687188c9066bbe7a4a81b&=&format=webp&width=688&height=384"
           alt="VELOX Brand Spirit"
           className="absolute inset-0 w-full h-full object-cover"
         />
