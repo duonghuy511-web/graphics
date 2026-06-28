@@ -66,7 +66,7 @@ const SHOE_CATS = [
 ];
 
 const ALL_PRODUCTS: Product[] = [
-  { id: 1, name: "VELOX BLAZE 1.0", categoryId: "chay-bo", categoryVi: "Giày Chạy Bộ", price: 2490000, tag: "MỚI", img: IMG.p1, desc: "Thiết kế khí động học, đế EVA siêu nhẹ giúp tối ưu hiệu suất mỗi bước chân.", sizes: ["38","39","40","41","42","43"], rating: 5, reviews: 128 },
+  { id: 1, name: "VELOX BLAZE 1.0", categoryId: "pho-thong", categoryVi: "Giày Phổ Thông", price: 2490000, tag: "MỚI", img: IMG.p1, desc: "Thiết kế khí động học, đế EVA siêu nhẹ giúp tối ưu hiệu suất mỗi bước chân.", sizes: ["38","39","40","41","42","43"], rating: 5, reviews: 128 },
   { id: 2, name: "VELOX DOMINATOR", categoryId: "gym", categoryVi: "Giày Tập Gym", price: 2990000, tag: "BÁN CHẠY", img: IMG.p2, desc: "Công nghệ đệm ProFoam™ phân tán lực tác động, bảo vệ khớp trong mọi bài tập.", sizes: ["38","39","40","41","42","43","44"], rating: 5, reviews: 214 },
   { id: 3, name: "VELOX STREAK", categoryId: "chay-bo", categoryVi: "Giày Chạy Bộ", price: 1990000, tag: null, img: IMG.p3, desc: "Phần thân lưới thoáng khí kết hợp đế ngoài cao su bám đường vượt trội.", sizes: ["39","40","41","42","43"], rating: 4, reviews: 87 },
   { id: 4, name: "VELOX GLIDE", categoryId: "pho-thong", categoryVi: "Giày Phổ Thông", price: 1590000, tag: "MỚI", img: IMG.p4, desc: "Phong cách tối giản, linh hoạt từ gym ra đường phố với thiết kế đa năng.", sizes: ["38","39","40","41","42","43","44","45"], rating: 4, reviews: 63 },
