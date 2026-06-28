@@ -22,7 +22,7 @@ const norm = (s: string) =>
    IMAGES
 ───────────────────────────────────────────── */
 const IMG = {
-  hero: "https://images.unsplash.com/photo-1744060204728-f68e434a3edf?w=1920&h=1080&fit=crop&auto=format",
+  hero: "https://media.discordapp.net/attachments/1520464223212277938/1520701832232439879/Header_1920x1080.jpg?ex=6a422772&is=6a40d5f2&hm=46f1241aa70a11a9b1908fe7876d8431bdb4c5340fe687188c9066bbe7a4a81b&=&format=webp&width=1376&height=769",
   catMen: "https://images.unsplash.com/photo-1542321103-f277f1befb3c?w=700&h=950&fit=crop&auto=format",
   catWomen: "https://images.unsplash.com/photo-1548690312-e3b507d8c110?w=700&h=950&fit=crop&auto=format",
   catGear: "https://images.unsplash.com/photo-1620188467120-5042ed1eb5da?w=700&h=950&fit=crop&auto=format",
