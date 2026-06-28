@@ -1307,7 +1307,7 @@ function HomePage({ onView, onAdd, onNav, wishlist, onToggleWishlist }: {
           alt="VELOX Brand Spirit"
           className="absolute inset-0 w-full h-full object-cover"
         />
-        <div className="absolute inset-0" style={{ background: `${OG}D6A36F` }} />
+        <div className="absolute inset-0" style={{ background: `${OG}D6832F` }} />
         <div className="relative z-10 py-20 md:py-32 px-8 text-center w-full flex flex-col items-center">
           <p className="text-white/70 text-[10px] font-bold uppercase mb-8" style={{ letterSpacing:"0.5em" }}>TRIẾT LÝ CỦA CHÚNG TÔI</p>
           <h2 className="text-white font-black uppercase leading-[0.9] mb-12" style={{ fontSize:"clamp(44px,9vw,100px)", letterSpacing:"-0.02em" }}>
