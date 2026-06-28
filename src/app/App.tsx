@@ -31,6 +31,7 @@ const IMG = {
   p3: "https://media.discordapp.net/attachments/1520464223212277938/1520701170447028234/VELOX_STREAK_600x600.jpg?ex=6a4226d4&is=6a40d554&hm=71d153dde06a88413879644b690875e4929a2aab22c3a9ff6fa9ec6768bbe528&=&format=webp&width=750&height=750",
   p4: "https://media.discordapp.net/attachments/1520464223212277938/1520701421056557058/VELOX_GLIDE.jpg?ex=6a422710&is=6a40d590&hm=e22696ac57bf2330e1d467c60a7cb22a45a49e608489263723371e22af5a8037&=&format=webp&width=750&height=750",
   p5: "https://media.discordapp.net/attachments/1520464223212277938/1520701421392232489/VELOX_GUM-V.jpg?ex=6a422710&is=6a40d590&hm=44635bfcc0e8a4859ffdf538173fce3d26743bf1b04a1fa9b298cce2520424f5&=&format=webp&width=750&height=750",
+  p6: "https://media.discordapp.net/attachments/1520464223212277938/1520701423556493314/VELOX_STRIKE_600x600.jpg?ex=6a422710&is=6a40d590&hm=68bcb3f7105f375afce64f3e01ca870b100b6028f121744d2badaeae502e9eed&=&format=webp&width=750&height=750",
   i1: "https://images.unsplash.com/photo-1758521961238-bbb88f9ba45b?w=900&h=700&fit=crop&auto=format",
   i2: "https://images.unsplash.com/photo-1758521960740-47be01d168b0?w=500&h=400&fit=crop&auto=format",
   i3: "https://images.unsplash.com/photo-1758521959295-38ef00565e7c?w=500&h=400&fit=crop&auto=format",
