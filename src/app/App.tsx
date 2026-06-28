@@ -26,7 +26,7 @@ const IMG = {
   catMen: "https://images.unsplash.com/photo-1542321103-f277f1befb3c?w=700&h=950&fit=crop&auto=format",
   catWomen: "https://images.unsplash.com/photo-1548690312-e3b507d8c110?w=700&h=950&fit=crop&auto=format",
   catGear: "https://images.unsplash.com/photo-1620188467120-5042ed1eb5da?w=700&h=950&fit=crop&auto=format",
-  p1: "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?w=600&h=600&fit=crop&auto=format",
+  p1: "https://media.discordapp.net/attachments/1520464223212277938/1520700845216497725/VELOX_BLAZE_1.0_600x600.jpg?ex=6a422686&is=6a40d506&hm=fcb8d0139ba2a3110b31306160df14aec32cf457a365fb332142a64b8a24d95a&=&format=webp&width=438&height=438",
   p2: "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?w=600&h=600&fit=crop&auto=format",
   p3: "https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=600&h=600&fit=crop&auto=format",
   p4: "https://images.unsplash.com/photo-1591311630200-ffa9120a540f?w=600&h=600&fit=crop&auto=format",
