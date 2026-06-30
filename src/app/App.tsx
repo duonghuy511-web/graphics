@@ -1313,7 +1313,7 @@ function HomePage({ onView, onAdd, onNav, wishlist, onToggleWishlist }: {
       {/* BRAND SPIRIT BANNER — thay URL src bên dưới để đổi ảnh nền */}
       <section className="w-full relative overflow-hidden flex items-center justify-center" style={{ minHeight: 560 }}>
         <img
-          src=headerImage
+          src='@/image/Header.jpg'
           alt="VELOX Brand Spirit"
           className="absolute inset-0 w-full h-full object-cover"
         />
