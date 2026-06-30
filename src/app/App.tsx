@@ -8,7 +8,7 @@ import {
 } from "lucide-react";
 import { ImageWithFallback } from "@/app/components/figma/ImageWithFallback";
 import veloxLogo from "@/imports/Logo_VELOX_orange.png";
-import p1Image from '@/image/VELOX BLAZE 1.0.jpg';
+import p1Image from '@/image/VELOX-BLAZE-1.0.jpg';
 
 /* ─────────────────────────────────────────────
    CONSTANTS
