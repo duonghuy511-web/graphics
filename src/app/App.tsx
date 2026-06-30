@@ -26,7 +26,7 @@ const IMG = {
   catMen: "https://images.unsplash.com/photo-1542321103-f277f1befb3c?w=700&h=950&fit=crop&auto=format",
   catWomen: "https://images.unsplash.com/photo-1548690312-e3b507d8c110?w=700&h=950&fit=crop&auto=format",
   catGear: "https://images.unsplash.com/photo-1620188467120-5042ed1eb5da?w=700&h=950&fit=crop&auto=format",
-  p1: "https://media.discordapp.net/attachments/1520464223212277938/1520700845216497725/VELOX_BLAZE_1.0_600x600.jpg?ex=6a422686&is=6a40d506&hm=fcb8d0139ba2a3110b31306160df14aec32cf457a365fb332142a64b8a24d95a&=&format=webp&width=438&height=438",
+  p1: "src/image/VELOX BLAZE 1.0.jpg",
   p2: "https://media.discordapp.net/attachments/1520464223212277938/1520701170148970516/VELOX_DOMINATOR_600x600.jpg?ex=6a4226d4&is=6a40d554&hm=4170c17dd271d9e72155dd29535149638d34e339c06cdffd0be591225e6f9fd0&=&format=webp&width=750&height=750",
   p3: "https://media.discordapp.net/attachments/1520464223212277938/1520701170447028234/VELOX_STREAK_600x600.jpg?ex=6a4226d4&is=6a40d554&hm=71d153dde06a88413879644b690875e4929a2aab22c3a9ff6fa9ec6768bbe528&=&format=webp&width=750&height=750",
   p4: "https://media.discordapp.net/attachments/1520464223212277938/1520701421056557058/VELOX_GLIDE.jpg?ex=6a422710&is=6a40d590&hm=e22696ac57bf2330e1d467c60a7cb22a45a49e608489263723371e22af5a8037&=&format=webp&width=750&height=750",
