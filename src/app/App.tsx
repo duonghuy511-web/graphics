@@ -14,7 +14,10 @@ import p3Image from '@/image/VELOX-STREAK.jpg';
 import p4Image from '@/image/VELOX-GLIDE.jpg';
 import p5Image from '@/image/VELOX-GUM-V.jpg';
 import p6Image from '@/image/VELOX-STRIKE.jpg';
-import headerImage from '@/image/header.jpg';
+import headerImage from '@/image/Header.jpg';
+import bagImage from '@/image/BAG_velox_1.webp';
+import shirtImage from '@/image/VELOX_SHIRT.webp';
+import shortImage from '@/image/VELOX_Black_Short.webp';
 
 /* ─────────────────────────────────────────────
    CONSTANTS
@@ -1310,7 +1313,7 @@ function HomePage({ onView, onAdd, onNav, wishlist, onToggleWishlist }: {
       {/* BRAND SPIRIT BANNER — thay URL src bên dưới để đổi ảnh nền */}
       <section className="w-full relative overflow-hidden flex items-center justify-center" style={{ minHeight: 560 }}>
         <img
-          src="https://media.discordapp.net/attachments/1520464223212277938/1520701832232439879/Header_1920x1080.jpg?ex=6a422772&is=6a40d5f2&hm=46f1241aa70a11a9b1908fe7876d8431bdb4c5340fe687188c9066bbe7a4a81b&=&format=webp&width=688&height=384"
+          src=headerImage
           alt="VELOX Brand Spirit"
           className="absolute inset-0 w-full h-full object-cover"
         />
