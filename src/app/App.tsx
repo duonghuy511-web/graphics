@@ -14,7 +14,7 @@ import p3Image from '@/image/VELOX-STREAK.jpg';
 import p4Image from '@/image/VELOX-GLIDE.jpg';
 import p5Image from '@/image/VELOX-GUM-V.jpg';
 import p6Image from '@/image/VELOX-STRIKE.jpg';
-import header from '@/image/header.jpg';
+import headerImage from '@/image/header.jpg';
 
 /* ─────────────────────────────────────────────
    CONSTANTS
@@ -44,7 +44,7 @@ const IMG = {
   i3: "https://images.unsplash.com/photo-1758521959295-38ef00565e7c?w=500&h=400&fit=crop&auto=format",
   i4: "https://images.unsplash.com/photo-1727094141271-9bea5bc8c757?w=900&h=700&fit=crop&auto=format",
   i5: "https://images.unsplash.com/photo-1758521961330-2004fb10800f?w=500&h=400&fit=crop&auto=format",
-  authBg: header,
+  authBg: headerImage,
   menBanner: "https://images.unsplash.com/photo-1571731956672-f2b94d7dd0cb?w=1400&h=600&fit=crop&auto=format",
 };
 
