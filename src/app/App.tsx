@@ -94,10 +94,10 @@ const ALL_PRODUCTS: Product[] = [
    SPORTS ACCESSORIES DATA
 ───────────────────────────────────────────── */
 const SIMG = {
-  shirt:    "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&h=600&fit=crop&auto=format",
-  shorts:   "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=600&h=600&fit=crop&auto=format",
+  shirt:    shirtImage,
+  shorts:   shortImage,
   bottle:   "https://images.unsplash.com/photo-1523362628745-0c100150b504?w=600&h=600&fit=crop&auto=format",
-  backpack: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&h=600&fit=crop&auto=format",
+  backpack: bagImage,
   gloves:   "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=600&h=600&fit=crop&auto=format",
   towel:    "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&h=600&fit=crop&auto=format",
   brandBg:  "https://images.unsplash.com/photo-1538388149542-5e24932d11a9?w=1920&h=800&fit=crop&auto=format",
@@ -1313,7 +1313,7 @@ function HomePage({ onView, onAdd, onNav, wishlist, onToggleWishlist }: {
       {/* BRAND SPIRIT BANNER — thay URL src bên dưới để đổi ảnh nền */}
       <section className="w-full relative overflow-hidden flex items-center justify-center" style={{ minHeight: 560 }}>
         <img
-          src='@/image/Header.jpg'
+          src={headerImage}
           alt="VELOX Brand Spirit"
           className="absolute inset-0 w-full h-full object-cover"
         />
